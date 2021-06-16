@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: url("../img/raduga-fon.jpg");
+    
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.card {
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 10px 50px 100px;
+    border-radius: 10px;
+}
+.card-photo {
+    display:block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    
+}
+.card-title {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(237, 105, 217)
+}
+.card-text {
+    font-size: 14px;
+    text-align: center;
+}
+.card-subtitle {
+    font-size: 25px;
+    color: rgb(237, 105, 217);
+    text-align: center;
+}
